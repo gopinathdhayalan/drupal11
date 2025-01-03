@@ -1,0 +1,5 @@
+name: 'Mymodule'
+description: 'Custom module to explore the new features of Drupal 11'
+type: module
+package: custom
+core_version_requirement: ^11
